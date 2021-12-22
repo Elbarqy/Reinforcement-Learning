@@ -8,3 +8,6 @@
 ###TODO
 - [ ] implement the **UCB1** approach 
 - [ ] Apply real world application as an example to this problem
+
+# Algorithm performance
+![alt text](result.png)
