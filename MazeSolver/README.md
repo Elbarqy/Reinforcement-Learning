@@ -38,3 +38,9 @@ We initialize Gstate to be all between -0.1 : -1 which we can interpret as follo
 ## What to note about the whole algorithm
 - The agent learns only the features of the enviroments and how to deal with it
 - A* is more generalized and faster compared to the training process of this algorithm
+
+#Results
+Here is the result of the algorithm iterations over each episode and how it converged
+- 1000 means that the agent got stuck
+- less than 1000 means the algorthm reached the destination successfully
+![alt text](result.png)

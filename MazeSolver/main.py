@@ -23,6 +23,8 @@ if __name__ == '__main__':
     print("Total number of steps is to complete the journey is : " + str(moveHistory[-1]))
     plt.semilogy(moveHistory, 'g--')
     plt.legend('alpha=0.1')
+    plt.xlabel("Number of steps")
+    plt.savefig('result')
     plt.show()
 
 
