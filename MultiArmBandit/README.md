@@ -19,7 +19,10 @@
 - [ ] Change formulas to latex
 
 # Algorithm performance
+### Epsilon Greedy implementation with different epsilons
 ![alt text](result_epsilonGreedy.png)
+### UCB vs Epsilon Greedy implementation
+![alt text](result_UCB.png)
 
 ## Side notes
 - **constant al**pha is better for non-stationary distributions**
